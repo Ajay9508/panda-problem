@@ -13,4 +13,16 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ajay9508/panda-problem/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Ajay9508/panda-problem/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ajay9508/panda-problem/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ajay9508/panda-problem/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ajay9508/panda-problem/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ajay9508/panda-problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
